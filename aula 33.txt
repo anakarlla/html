@@ -1,0 +1,20 @@
+<html>	
+	<head>
+			<title>Título</title>
+			<meta charsset="UTF-8">
+	</head>
+	<body> 
+			<h1>Título de Coteúdo</h1>
+
+			<H2>Subtítulo</h2>
+			
+			<p style = "background-color:#f1c232;color:red font-size:32px">
+			texto em<br>
+			parágrafo
+			</p>
+			<img src="imagem.webp">
+
+
+        </body>
+</html>
+
